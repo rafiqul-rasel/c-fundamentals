@@ -1,0 +1,7 @@
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\bin\Debug\fundamental of cs.exe.config
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\bin\Debug\fundamental of cs.exe
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\bin\Debug\fundamental of cs.pdb
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\obj\Debug\fundamental of cs.csprojAssemblyReference.cache
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\obj\Debug\fundamental of cs.csproj.CoreCompileInputs.cache
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\obj\Debug\fundamental of cs.exe
+C:\Users\Rasel\source\repos\fundamental of cs\fundamental of cs\obj\Debug\fundamental of cs.pdb
